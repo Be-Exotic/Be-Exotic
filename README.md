@@ -4,7 +4,7 @@
 
 Here's [Our Discord Bot](https://discord.com/users/1082956798253862912)
 <br>
-![Our Discord Bot](https://dcbadge.vercel.app/api/shield/972866679220617297?bot=true)
+![Our Discord Bot](https://dcbadge.vercel.app/api/shield/1082956798253862912?bot=true)
 <br>
 Here's [Our Discord Server](https://discord.gg/KGF7QKrUm7)
 <br>
