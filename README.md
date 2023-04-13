@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?duration=4000&lines=Hello+there%2C+We%27re+Be-Exotic)](http://gzf-linktree.great-site.net)
 
-Here's [Our Discord Bot](https://discord.com/users/972866679220617297)
+Here's [Our Discord Bot](https://discord.com/users/1082956798253862912)
 <br>
 ![Our Discord Bot](https://dcbadge.vercel.app/api/shield/972866679220617297?bot=true)
 <br>
