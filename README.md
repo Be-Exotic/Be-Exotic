@@ -2,13 +2,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?duration=4000&lines=Hello+there%2C+We%27re+Be-Exotic)](http://gzf-linktree.great-site.net)
 
-![](https://dcbadge.vercel.app/api/shield/935053416877666304)
-<br>
 Here's [Our Discord Bot](https://discord.com/users/972866679220617297)
 <br>
 ![Our Discord Bot](https://dcbadge.vercel.app/api/shield/972866679220617297?bot=true)
 <br>
-Here's [My Discord Server](https://discord.gg/KGF7QKrUm7)
+Here's [Our Discord Server](https://discord.gg/KGF7QKrUm7)
 <br>
 [![](https://dcbadge.vercel.app/api/server/KGF7QKrUm7)](https://discord.gg/KGF7QKrUm7)
 <br>
