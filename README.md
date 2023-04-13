@@ -6,9 +6,9 @@ Here's [Our Discord Bot](https://discord.com/users/1082956798253862912)
 <br>
 ![Our Discord Bot](https://dcbadge.vercel.app/api/shield/1082956798253862912?bot=true)
 <br>
-Here's [Our Discord Server](https://discord.gg/KGF7QKrUm7)
+Here's [Our Discord Server](https://discord.gg/eY45bAH3Ds)
 <br>
-[![](https://dcbadge.vercel.app/api/server/KGF7QKrUm7)](https://discord.gg/KGF7QKrUm7)
+[![](https://dcbadge.vercel.app/api/server/eY45bAH3Ds)](https://discord.gg/eY45bAH3Ds)
 <br>
 <hr>
 <br>
